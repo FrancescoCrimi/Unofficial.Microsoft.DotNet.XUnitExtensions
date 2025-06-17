@@ -8,11 +8,10 @@
 		<PackageVersion>8.0.0-beta.25310.3</PackageVersion>
 		<Authors>Francesco Crimi</Authors>
 		<Company>CiccioSoft</Company>
-		<requireLicenseAcceptance>true</requireLicenseAcceptance>
 		<Description>This package provides things like various traits and discovers like OuterLoop/ActiveIssue that are used by .NET test projects.</Description>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<ProjectUrl>https://github.com/FrancescoCrimi/Unofficial.Microsoft.DotNet.XUnitExtensions</ProjectUrl>
+		<PackageProjectUrl>https://github.com/FrancescoCrimi/Unofficial.Microsoft.DotNet.XUnitExtensions</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/FrancescoCrimi/Unofficial.Microsoft.DotNet.XUnitExtensions.git</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 	</PropertyGroup>
